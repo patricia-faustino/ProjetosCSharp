@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.exe
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.deps.json
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.runtimeconfig.json
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.dll
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\bin\Debug\netcoreapp3.1\correcaoexercico.pdb
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.dll
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.pdb
+C:\Users\i-ire\source\repos\correcaoexercico\correcaoexercico\obj\Debug\netcoreapp3.1\correcaoexercico.genruntimeconfig.cache

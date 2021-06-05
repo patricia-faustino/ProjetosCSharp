@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.exe
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.deps.json
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.runtimeconfig.json
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.dll
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\bin\Debug\netcoreapp3.1\ex2classe.pdb
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.dll
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.pdb
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\ex2classe\ex2classe\obj\Debug\netcoreapp3.1\ex2classe.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.exe
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.deps.json
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.runtimeconfig.json
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.dll
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\bin\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.pdb
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.dll
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.pdb
+C:\Users\i-ire\source\repos\RepetindoExercicioVetoresf\RepetindoExercicioVetoresf\obj\Debug\netcoreapp3.1\RepetindoExercicioVetoresf.genruntimeconfig.cache

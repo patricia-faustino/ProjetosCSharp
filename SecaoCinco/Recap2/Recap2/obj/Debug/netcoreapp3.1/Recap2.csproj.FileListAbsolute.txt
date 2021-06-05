@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.exe
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.deps.json
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.runtimeconfig.json
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.dll
+C:\Users\i-ire\source\repos\Recap2\Recap2\bin\Debug\netcoreapp3.1\Recap2.pdb
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.dll
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.pdb
+C:\Users\i-ire\source\repos\Recap2\Recap2\obj\Debug\netcoreapp3.1\Recap2.genruntimeconfig.cache

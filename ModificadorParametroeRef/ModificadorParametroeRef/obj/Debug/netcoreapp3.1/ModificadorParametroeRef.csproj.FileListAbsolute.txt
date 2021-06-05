@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.exe
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.deps.json
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.runtimeconfig.json
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.dll
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\bin\Debug\netcoreapp3.1\ModificadorParametroeRef.pdb
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.dll
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.pdb
+C:\Users\i-ire\source\repos\ModificadorParametroeRef\ModificadorParametroeRef\obj\Debug\netcoreapp3.1\ModificadorParametroeRef.genruntimeconfig.cache

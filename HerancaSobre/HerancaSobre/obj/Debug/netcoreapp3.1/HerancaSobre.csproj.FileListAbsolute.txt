@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.exe
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.deps.json
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.runtimeconfig.json
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.dll
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\bin\Debug\netcoreapp3.1\HerancaSobre.pdb
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.dll
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.pdb
+C:\Users\i-ire\source\repos\HerancaSobre\HerancaSobre\obj\Debug\netcoreapp3.1\HerancaSobre.genruntimeconfig.cache

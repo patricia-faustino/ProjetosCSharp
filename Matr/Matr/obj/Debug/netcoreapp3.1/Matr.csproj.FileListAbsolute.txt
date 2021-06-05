@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.exe
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.deps.json
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.runtimeconfig.json
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.dll
+C:\Users\i-ire\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.pdb
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.dll
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.pdb
+C:\Users\i-ire\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.exe
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.deps.json
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.dll
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\bin\Debug\netcoreapp3.1\ExLinq.pdb
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.dll
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.pdb
+C:\Users\i-ire\source\repos\ExLinq\ExLinq\obj\Debug\netcoreapp3.1\ExLinq.genruntimeconfig.cache

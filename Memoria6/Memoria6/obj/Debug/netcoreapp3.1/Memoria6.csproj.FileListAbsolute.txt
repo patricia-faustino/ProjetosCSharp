@@ -1,0 +1,26 @@
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.exe
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.deps.json
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.runtimeconfig.json
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.dll
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.pdb
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.dll
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.pdb
+C:\Users\i-ire\source\repos\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.genruntimeconfig.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\bin\Debug\netcoreapp3.1\Memoria6.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\Memoria6\Memoria6\obj\Debug\netcoreapp3.1\Memoria6.genruntimeconfig.cache

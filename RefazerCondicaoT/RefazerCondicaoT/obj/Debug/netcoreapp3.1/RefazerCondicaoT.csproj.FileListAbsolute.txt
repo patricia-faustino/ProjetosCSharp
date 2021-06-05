@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.exe
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.deps.json
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.runtimeconfig.json
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.dll
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\bin\Debug\netcoreapp3.1\RefazerCondicaoT.pdb
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.dll
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.pdb
+C:\Users\i-ire\source\repos\RefazerCondicaoT\RefazerCondicaoT\obj\Debug\netcoreapp3.1\RefazerCondicaoT.genruntimeconfig.cache

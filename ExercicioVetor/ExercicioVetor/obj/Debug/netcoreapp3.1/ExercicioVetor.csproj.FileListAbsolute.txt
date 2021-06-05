@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.exe
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.deps.json
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.dll
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp3.1\ExercicioVetor.pdb
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.dll
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.pdb
+C:\Users\i-ire\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp3.1\ExercicioVetor.genruntimeconfig.cache

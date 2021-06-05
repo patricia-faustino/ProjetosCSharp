@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExItComparable", "ExItComparable\ExItComparable.csproj", "{C2E88608-5216-4AE6-987B-776BF1070C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E88608-5216-4AE6-987B-776BF1070C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E88608-5216-4AE6-987B-776BF1070C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E88608-5216-4AE6-987B-776BF1070C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E88608-5216-4AE6-987B-776BF1070C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF56A4FB-9DBE-4E4A-9276-17BD2905BF4A}
+	EndGlobalSection
+EndGlobal

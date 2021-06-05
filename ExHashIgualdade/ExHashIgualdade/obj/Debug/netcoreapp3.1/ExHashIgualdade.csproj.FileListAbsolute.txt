@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.exe
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.deps.json
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.dll
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\bin\Debug\netcoreapp3.1\ExHashIgualdade.pdb
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.dll
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.pdb
+C:\Users\i-ire\source\repos\ExHashIgualdade\ExHashIgualdade\obj\Debug\netcoreapp3.1\ExHashIgualdade.genruntimeconfig.cache

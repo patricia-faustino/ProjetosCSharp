@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.exe
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.deps.json
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.runtimeconfig.json
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.dll
+C:\Users\i-ire\source\repos\gese\gese\bin\Debug\netcoreapp3.1\gese.pdb
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.dll
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.pdb
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\gese\gese\obj\Debug\netcoreapp3.1\gese.csprojAssemblyReference.cache

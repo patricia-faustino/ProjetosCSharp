@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.exe
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.deps.json
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.runtimeconfig.json
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.dll
+C:\Users\i-ire\source\repos\faça\faça\bin\Debug\netcoreapp3.1\faça.pdb
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.dll
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.pdb
+C:\Users\i-ire\source\repos\faça\faça\obj\Debug\netcoreapp3.1\faça.genruntimeconfig.cache

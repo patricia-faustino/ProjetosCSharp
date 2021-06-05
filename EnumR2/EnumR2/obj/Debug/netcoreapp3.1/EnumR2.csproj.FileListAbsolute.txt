@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.exe
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.deps.json
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.runtimeconfig.json
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.dll
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\bin\Debug\netcoreapp3.1\EnumR2.pdb
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.dll
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.pdb
+C:\Users\i-ire\source\repos\EnumR2\EnumR2\obj\Debug\netcoreapp3.1\EnumR2.genruntimeconfig.cache

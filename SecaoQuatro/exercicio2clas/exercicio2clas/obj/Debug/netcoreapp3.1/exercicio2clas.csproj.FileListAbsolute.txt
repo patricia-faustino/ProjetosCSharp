@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.exe
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.deps.json
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.runtimeconfig.json
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.dll
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\bin\Debug\netcoreapp3.1\exercicio2clas.pdb
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.dll
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.pdb
+C:\Users\i-ire\source\repos\exercicio2clas\exercicio2clas\obj\Debug\netcoreapp3.1\exercicio2clas.genruntimeconfig.cache

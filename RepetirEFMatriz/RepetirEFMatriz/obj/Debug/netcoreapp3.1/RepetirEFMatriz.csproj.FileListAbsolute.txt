@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.exe
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.deps.json
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.runtimeconfig.json
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.dll
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\bin\Debug\netcoreapp3.1\RepetirEFMatriz.pdb
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.dll
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.pdb
+C:\Users\i-ire\source\repos\RepetirEFMatriz\RepetirEFMatriz\obj\Debug\netcoreapp3.1\RepetirEFMatriz.genruntimeconfig.cache

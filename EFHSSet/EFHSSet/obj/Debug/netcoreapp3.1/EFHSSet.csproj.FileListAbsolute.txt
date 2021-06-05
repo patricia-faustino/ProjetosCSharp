@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.exe
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.deps.json
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.runtimeconfig.json
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.dll
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\bin\Debug\netcoreapp3.1\EFHSSet.pdb
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.dll
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.pdb
+C:\Users\i-ire\source\repos\EFHSSet\EFHSSet\obj\Debug\netcoreapp3.1\EFHSSet.genruntimeconfig.cache

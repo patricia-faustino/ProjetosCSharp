@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.genruntimeconfig.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.csprojAssemblyReference.cache

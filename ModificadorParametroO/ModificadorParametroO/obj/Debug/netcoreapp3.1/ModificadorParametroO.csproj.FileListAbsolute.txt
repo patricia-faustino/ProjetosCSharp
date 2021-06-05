@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.exe
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.deps.json
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.runtimeconfig.json
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.dll
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\bin\Debug\netcoreapp3.1\ModificadorParametroO.pdb
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.dll
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.pdb
+C:\Users\i-ire\source\repos\ModificadorParametroO\ModificadorParametroO\obj\Debug\netcoreapp3.1\ModificadorParametroO.genruntimeconfig.cache

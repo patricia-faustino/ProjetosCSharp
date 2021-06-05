@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.exe
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.deps.json
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.dll
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\bin\Debug\netcoreapp3.1\ExemploSWriter.pdb
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.dll
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.pdb
+C:\Users\i-ire\source\repos\ExemploSWriter\ExemploSWriter\obj\Debug\netcoreapp3.1\ExemploSWriter.genruntimeconfig.cache

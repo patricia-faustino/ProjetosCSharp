@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.exe
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.deps.json
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.runtimeconfig.json
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.dll
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\bin\Debug\netcoreapp3.1\AREATRIANGULO.pdb
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.dll
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.pdb
+C:\Users\i-ire\source\repos\AREATRIANGULO\AREATRIANGULO\obj\Debug\netcoreapp3.1\AREATRIANGULO.genruntimeconfig.cache

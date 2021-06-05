@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.exe
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.deps.json
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.runtimeconfig.json
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.dll
+C:\Users\i-ire\source\repos\ex32\ex32\bin\Debug\netcoreapp3.1\ex32.pdb
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.dll
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.pdb
+C:\Users\i-ire\source\repos\ex32\ex32\obj\Debug\netcoreapp3.1\ex32.genruntimeconfig.cache

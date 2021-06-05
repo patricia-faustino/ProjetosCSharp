@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gesepropriets", "gesepropriets\gesepropriets.csproj", "{D9072C33-9E43-4E31-9612-B8AD836C5A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9072C33-9E43-4E31-9612-B8AD836C5A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9072C33-9E43-4E31-9612-B8AD836C5A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9072C33-9E43-4E31-9612-B8AD836C5A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9072C33-9E43-4E31-9612-B8AD836C5A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AF203F-E482-439B-9DF3-0F9541B5C801}
+	EndGlobalSection
+EndGlobal

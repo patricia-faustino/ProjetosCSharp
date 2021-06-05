@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.exe
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.deps.json
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.runtimeconfig.json
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.dll
+C:\Users\i-ire\source\repos\Stru\Stru\bin\Debug\netcoreapp3.1\Stru.pdb
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.dll
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.pdb
+C:\Users\i-ire\source\repos\Stru\Stru\obj\Debug\netcoreapp3.1\Stru.genruntimeconfig.cache

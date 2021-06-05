@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.exe
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.deps.json
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.dll
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\bin\Debug\netcoreapp3.1\ExItComparable.pdb
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.dll
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.pdb
+C:\Users\i-ire\source\repos\ExItComparable\ExItComparable\obj\Debug\netcoreapp3.1\ExItComparable.genruntimeconfig.cache

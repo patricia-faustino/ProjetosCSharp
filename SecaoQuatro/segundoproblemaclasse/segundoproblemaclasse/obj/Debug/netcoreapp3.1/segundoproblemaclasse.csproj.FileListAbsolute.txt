@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.exe
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.deps.json
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.runtimeconfig.json
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.dll
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\bin\Debug\netcoreapp3.1\segundoproblemaclasse.pdb
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.dll
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.pdb
+C:\Users\i-ire\source\repos\segundoproblemaclasse\segundoproblemaclasse\obj\Debug\netcoreapp3.1\segundoproblemaclasse.genruntimeconfig.cache

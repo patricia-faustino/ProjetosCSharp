@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exclasse", "exclasse\exclasse.csproj", "{75C24327-AE03-421F-AB67-2F1B75F5B0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C24327-AE03-421F-AB67-2F1B75F5B0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C24327-AE03-421F-AB67-2F1B75F5B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C24327-AE03-421F-AB67-2F1B75F5B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C24327-AE03-421F-AB67-2F1B75F5B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5F9E39-EB7E-44AA-B779-5006B9D3BCCB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.genruntimeconfig.cache

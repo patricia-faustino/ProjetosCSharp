@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.exe
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.deps.json
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.dll
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\bin\Debug\netcoreapp3.1\ExFixPolim.pdb
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.dll
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.pdb
+C:\Users\i-ire\source\repos\ExFixPolim\ExFixPolim\obj\Debug\netcoreapp3.1\ExFixPolim.genruntimeconfig.cache

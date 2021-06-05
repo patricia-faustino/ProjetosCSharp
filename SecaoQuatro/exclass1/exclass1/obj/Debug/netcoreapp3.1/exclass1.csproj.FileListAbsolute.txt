@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.exe
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.deps.json
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.runtimeconfig.json
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.dll
+C:\Users\i-ire\source\repos\exclass1\exclass1\bin\Debug\netcoreapp3.1\exclass1.pdb
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.dll
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.pdb
+C:\Users\i-ire\source\repos\exclass1\exclass1\obj\Debug\netcoreapp3.1\exclass1.genruntimeconfig.cache

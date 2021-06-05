@@ -1,0 +1,12 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\bin\Debug\netcoreapp3.1\ex2ifelse.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ex2ifelse\ex2ifelse\obj\Debug\netcoreapp3.1\ex2ifelse.genruntimeconfig.cache

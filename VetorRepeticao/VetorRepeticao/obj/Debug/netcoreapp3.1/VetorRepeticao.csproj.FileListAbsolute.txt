@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.exe
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.deps.json
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.runtimeconfig.json
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.dll
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\bin\Debug\netcoreapp3.1\VetorRepeticao.pdb
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.dll
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.pdb
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\VetorRepeticao\VetorRepeticao\obj\Debug\netcoreapp3.1\VetorRepeticao.csprojAssemblyReference.cache

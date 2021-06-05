@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.exe
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.deps.json
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.dll
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\bin\Debug\netcoreapp3.1\ExemploUBlocking.pdb
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.dll
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.pdb
+C:\Users\i-ire\source\repos\ExemploUBlocking\ExemploUBlocking\obj\Debug\netcoreapp3.1\ExemploUBlocking.genruntimeconfig.cache

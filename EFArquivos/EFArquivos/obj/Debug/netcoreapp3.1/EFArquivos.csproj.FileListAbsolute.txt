@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.exe
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.deps.json
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.runtimeconfig.json
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.dll
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\bin\Debug\netcoreapp3.1\EFArquivos.pdb
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.dll
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.pdb
+C:\Users\i-ire\source\repos\EFArquivos\EFArquivos\obj\Debug\netcoreapp3.1\EFArquivos.genruntimeconfig.cache

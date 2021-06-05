@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.exe
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.deps.json
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.dll
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\bin\Debug\netcoreapp3.1\ExResolvidoSet.pdb
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.dll
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.pdb
+C:\Users\i-ire\source\repos\ExResolvidoSet\ExResolvidoSet\obj\Debug\netcoreapp3.1\ExResolvidoSet.genruntimeconfig.cache

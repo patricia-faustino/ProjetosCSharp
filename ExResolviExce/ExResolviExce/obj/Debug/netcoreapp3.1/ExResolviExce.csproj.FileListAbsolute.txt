@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.exe
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.deps.json
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.dll
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\bin\Debug\netcoreapp3.1\ExResolviExce.pdb
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.dll
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.pdb
+C:\Users\i-ire\source\repos\ExResolviExce\ExResolviExce\obj\Debug\netcoreapp3.1\ExResolviExce.genruntimeconfig.cache

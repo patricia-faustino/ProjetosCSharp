@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.exe
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.deps.json
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.runtimeconfig.json
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.dll
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\bin\Debug\netcoreapp3.1\TimeSOperacoes.pdb
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.dll
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.pdb
+C:\Users\i-ire\source\repos\TimeSOperacoes\TimeSOperacoes\obj\Debug\netcoreapp3.1\TimeSOperacoes.genruntimeconfig.cache

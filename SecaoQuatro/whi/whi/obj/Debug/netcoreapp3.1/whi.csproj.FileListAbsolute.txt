@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.exe
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.deps.json
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.runtimeconfig.json
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.dll
+C:\Users\i-ire\source\repos\whi\whi\bin\Debug\netcoreapp3.1\whi.pdb
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.dll
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.pdb
+C:\Users\i-ire\source\repos\whi\whi\obj\Debug\netcoreapp3.1\whi.genruntimeconfig.cache

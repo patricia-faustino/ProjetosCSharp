@@ -1,0 +1,16 @@
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.exe
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.deps.json
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.runtimeconfig.json
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.dll
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\ref\Atividades unicesumar.dll
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\bin\Debug\net5.0\Atividades unicesumar.pdb
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.dll
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\ref\Atividades unicesumar.dll
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.pdb
+C:\Users\i-ire\source\repos\Eleitor\Atividades unicesumar\obj\Debug\net5.0\Atividades unicesumar.genruntimeconfig.cache

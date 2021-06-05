@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.exe
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.deps.json
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.dll
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\bin\Debug\netcoreapp3.1\ExHSSet2.pdb
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.dll
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.pdb
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\ExHSSet2\ExHSSet2\obj\Debug\netcoreapp3.1\ExHSSet2.csprojAssemblyReference.cache

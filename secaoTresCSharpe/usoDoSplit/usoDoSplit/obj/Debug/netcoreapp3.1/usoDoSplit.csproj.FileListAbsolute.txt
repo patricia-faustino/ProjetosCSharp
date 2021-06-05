@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\bin\Debug\netcoreapp3.1\usoDoSplit.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\usoDoSplit\usoDoSplit\obj\Debug\netcoreapp3.1\usoDoSplit.genruntimeconfig.cache

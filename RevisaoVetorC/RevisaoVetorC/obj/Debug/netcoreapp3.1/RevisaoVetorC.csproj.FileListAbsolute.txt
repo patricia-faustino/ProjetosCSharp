@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.exe
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.deps.json
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.runtimeconfig.json
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.dll
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\bin\Debug\netcoreapp3.1\RevisaoVetorC.pdb
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.dll
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.pdb
+C:\Users\i-ire\source\repos\RevisaoVetorC\RevisaoVetorC\obj\Debug\netcoreapp3.1\RevisaoVetorC.genruntimeconfig.cache

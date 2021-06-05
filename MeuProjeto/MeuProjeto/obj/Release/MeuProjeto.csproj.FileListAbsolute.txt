@@ -1,0 +1,8 @@
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\bin\Release\MeuProjeto.dll
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\bin\Release\MeuProjeto.pdb
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\bin\Release\robocode.dll
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\bin\Release\robocode.xml
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\obj\Release\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\obj\Release\MeuProjeto.csproj.CopyComplete
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\obj\Release\MeuProjeto.dll
+C:\Users\i-ire\source\repos\MeuProjeto\MeuProjeto\obj\Release\MeuProjeto.pdb

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.exe
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.deps.json
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.dll
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\bin\Debug\netcoreapp3.1\ExercicioFS.pdb
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.dll
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.pdb
+C:\Users\i-ire\source\repos\ExercicioFS\ExercicioFS\obj\Debug\netcoreapp3.1\ExercicioFS.genruntimeconfig.cache

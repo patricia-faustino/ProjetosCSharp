@@ -1,0 +1,12 @@
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.exe
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.deps.json
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.runtimeconfig.json
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.dll
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\bin\Debug\netcoreapp3.1\Exemplp.pdb
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.dll
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.pdb
+C:\Users\i-ire\source\repos\Exemplp\Exemplp\obj\Debug\netcoreapp3.1\Exemplp.genruntimeconfig.cache

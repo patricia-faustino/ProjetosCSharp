@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.exe
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.deps.json
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.dll
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\bin\Debug\netcoreapp3.1\ExResolvPolimor.pdb
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.dll
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.pdb
+C:\Users\i-ire\source\repos\ExResolvPolimor\ExResolvPolimor\obj\Debug\netcoreapp3.1\ExResolvPolimor.genruntimeconfig.cache

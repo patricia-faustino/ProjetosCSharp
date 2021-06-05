@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.exe
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.deps.json
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.runtimeconfig.json
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.dll
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.pdb
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.dll
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.pdb
+C:\Users\i-ire\source\repos\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\bin\Debug\netcoreapp3.1\estruturaWhile.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\while\while\obj\Debug\netcoreapp3.1\estruturaWhile.genruntimeconfig.cache

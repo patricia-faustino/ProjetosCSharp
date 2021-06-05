@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.exe
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.deps.json
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.runtimeconfig.json
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.dll
+C:\Users\i-ire\source\repos\area2\area2\bin\Debug\netcoreapp3.1\area2.pdb
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.dll
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.pdb
+C:\Users\i-ire\source\repos\area2\area2\obj\Debug\netcoreapp3.1\area2.genruntimeconfig.cache

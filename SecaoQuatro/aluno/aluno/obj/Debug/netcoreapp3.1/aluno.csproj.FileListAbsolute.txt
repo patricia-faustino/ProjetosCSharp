@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.exe
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.deps.json
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.runtimeconfig.json
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.dll
+C:\Users\i-ire\source\repos\aluno\aluno\bin\Debug\netcoreapp3.1\aluno.pdb
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.dll
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.pdb
+C:\Users\i-ire\source\repos\aluno\aluno\obj\Debug\netcoreapp3.1\aluno.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.exe
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.deps.json
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.dll
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\bin\Debug\netcoreapp3.1\ExHerInteracao.pdb
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.dll
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.pdb
+C:\Users\i-ire\source\repos\ExHerInteracao\ExHerInteracao\obj\Debug\netcoreapp3.1\ExHerInteracao.genruntimeconfig.cache

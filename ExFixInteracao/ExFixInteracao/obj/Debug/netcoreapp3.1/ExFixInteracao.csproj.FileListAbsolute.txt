@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.exe
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.deps.json
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.dll
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\bin\Debug\netcoreapp3.1\ExFixInteracao.pdb
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.dll
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.pdb
+C:\Users\i-ire\source\repos\ExFixInteracao\ExFixInteracao\obj\Debug\netcoreapp3.1\ExFixInteracao.genruntimeconfig.cache

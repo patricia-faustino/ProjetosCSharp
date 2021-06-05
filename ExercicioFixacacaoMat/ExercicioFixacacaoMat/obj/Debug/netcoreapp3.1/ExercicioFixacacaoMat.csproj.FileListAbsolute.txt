@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.exe
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.deps.json
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.dll
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\bin\Debug\netcoreapp3.1\ExercicioFixacacaoMat.pdb
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.dll
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.pdb
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\ExercicioFixacacaoMat\ExercicioFixacacaoMat\obj\Debug\netcoreapp3.1\ExercicioFixacacaoMat.csprojAssemblyReference.cache

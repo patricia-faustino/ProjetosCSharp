@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.exe
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.deps.json
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.runtimeconfig.json
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.dll
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\bin\Debug\netcoreapp3.1\FileandFileInfo.pdb
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.dll
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.pdb
+C:\Users\i-ire\source\repos\FileandFileInfo\FileandFileInfo\obj\Debug\netcoreapp3.1\FileandFileInfo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.exe
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.deps.json
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.dll
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\bin\Debug\netcoreapp3.1\ExFixPrevisaoErros.pdb
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.dll
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.pdb
+C:\Users\i-ire\source\repos\ExFixPrevisaoErros\ExFixPrevisaoErros\obj\Debug\netcoreapp3.1\ExFixPrevisaoErros.genruntimeconfig.cache

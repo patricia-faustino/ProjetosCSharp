@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefazendoEInteracao", "RefazendoEInteracao\RefazendoEInteracao.csproj", "{49D03667-D0AF-4300-87D4-9B61BE7B554B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D03667-D0AF-4300-87D4-9B61BE7B554B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D03667-D0AF-4300-87D4-9B61BE7B554B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D03667-D0AF-4300-87D4-9B61BE7B554B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D03667-D0AF-4300-87D4-9B61BE7B554B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA58B97F-16B9-4D20-8B18-B043B1D396B8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.exe
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.deps.json
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.dll
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\bin\Debug\netcoreapp3.1\ExHerIntMultipla.pdb
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.dll
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.pdb
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.genruntimeconfig.cache
+C:\Users\i-ire\source\repos\ExHerIntMultipla\ExHerIntMultipla\obj\Debug\netcoreapp3.1\ExHerIntMultipla.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\i-ire\source\repos\Desalocacao\Desalocacao\obj\Debug\netcoreapp3.1\Desalocacao.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Desalocacao\Desalocacao\obj\Debug\netcoreapp3.1\Desalocacao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Desalocacao\Desalocacao\obj\Debug\netcoreapp3.1\Desalocacao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Desalocacao\Desalocacao\obj\Debug\netcoreapp3.1\Desalocacao.csproj.CoreCompileInputs.cache

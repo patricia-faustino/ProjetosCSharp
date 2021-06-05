@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\bin\Debug\netcoreapp3.1\estruturaCondicional2.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaCondicional2\estruturaCondicional2\obj\Debug\netcoreapp3.1\estruturaCondicional2.genruntimeconfig.cache

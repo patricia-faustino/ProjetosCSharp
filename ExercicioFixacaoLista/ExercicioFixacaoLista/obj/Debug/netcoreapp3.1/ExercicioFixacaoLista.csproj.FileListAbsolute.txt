@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.exe
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.deps.json
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.dll
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.pdb
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.dll
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.pdb
+C:\Users\i-ire\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.genruntimeconfig.cache

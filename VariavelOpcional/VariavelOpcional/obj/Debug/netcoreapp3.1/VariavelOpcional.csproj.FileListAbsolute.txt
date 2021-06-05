@@ -1,0 +1,26 @@
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.exe
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.deps.json
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.runtimeconfig.json
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.dll
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.pdb
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.dll
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.pdb
+C:\Users\i-ire\source\repos\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.genruntimeconfig.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\bin\Debug\netcoreapp3.1\VariavelOpcional.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\VariavelOpcional\VariavelOpcional\obj\Debug\netcoreapp3.1\VariavelOpcional.genruntimeconfig.cache

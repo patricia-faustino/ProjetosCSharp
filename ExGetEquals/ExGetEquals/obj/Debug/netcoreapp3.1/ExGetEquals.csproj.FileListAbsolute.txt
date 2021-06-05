@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.exe
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.deps.json
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.dll
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\bin\Debug\netcoreapp3.1\ExGetEquals.pdb
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.dll
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.pdb
+C:\Users\i-ire\source\repos\ExGetEquals\ExGetEquals\obj\Debug\netcoreapp3.1\ExGetEquals.genruntimeconfig.cache

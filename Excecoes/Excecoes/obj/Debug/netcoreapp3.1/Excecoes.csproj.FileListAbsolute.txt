@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.exe
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.deps.json
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.json
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\i-ire\source\repos\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.genruntimeconfig.cache

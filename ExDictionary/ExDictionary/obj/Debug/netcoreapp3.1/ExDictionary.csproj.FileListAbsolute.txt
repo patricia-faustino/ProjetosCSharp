@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.exe
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.deps.json
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.dll
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.pdb
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.dll
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.pdb
+C:\Users\i-ire\source\repos\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.genruntimeconfig.cache

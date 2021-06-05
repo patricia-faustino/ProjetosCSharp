@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.exe
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.deps.json
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.runtimeconfig.json
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.dll
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\bin\Debug\netcoreapp3.1\EFDictionary.pdb
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.dll
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.pdb
+C:\Users\i-ire\source\repos\EFDictionary\EFDictionary\obj\Debug\netcoreapp3.1\EFDictionary.genruntimeconfig.cache

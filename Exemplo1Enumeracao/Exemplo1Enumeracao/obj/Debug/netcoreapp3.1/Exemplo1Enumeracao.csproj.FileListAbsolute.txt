@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.exe
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.deps.json
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.runtimeconfig.json
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.dll
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\bin\Debug\netcoreapp3.1\Exemplo1Enumeracao.pdb
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.dll
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.pdb
+C:\Users\i-ire\source\repos\Exemplo1Enumeracao\Exemplo1Enumeracao\obj\Debug\netcoreapp3.1\Exemplo1Enumeracao.genruntimeconfig.cache

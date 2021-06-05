@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.genruntimeconfig.cache

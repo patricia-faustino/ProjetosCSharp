@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacacaoMat", "ExercicioFixacacaoMat\ExercicioFixacacaoMat.csproj", "{FD58DA53-85AC-4357-93F5-B5D82A35D4DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatri1", "..\ExercicioMatri1\ExercicioMatri1\ExercicioMatri1.csproj", "{DCF571C6-6CE4-4933-B08B-C84D2755BCA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD58DA53-85AC-4357-93F5-B5D82A35D4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD58DA53-85AC-4357-93F5-B5D82A35D4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD58DA53-85AC-4357-93F5-B5D82A35D4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD58DA53-85AC-4357-93F5-B5D82A35D4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF571C6-6CE4-4933-B08B-C84D2755BCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF571C6-6CE4-4933-B08B-C84D2755BCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF571C6-6CE4-4933-B08B-C84D2755BCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF571C6-6CE4-4933-B08B-C84D2755BCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B466F0-BEAE-4FD8-AB55-6EA204C5AA1E}
+	EndGlobalSection
+EndGlobal

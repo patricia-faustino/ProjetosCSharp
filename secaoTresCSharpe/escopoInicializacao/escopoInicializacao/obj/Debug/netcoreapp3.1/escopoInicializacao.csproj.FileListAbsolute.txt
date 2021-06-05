@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\bin\Debug\netcoreapp3.1\escopoInicializacao.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\escopoInicializacao\escopoInicializacao\obj\Debug\netcoreapp3.1\escopoInicializacao.genruntimeconfig.cache

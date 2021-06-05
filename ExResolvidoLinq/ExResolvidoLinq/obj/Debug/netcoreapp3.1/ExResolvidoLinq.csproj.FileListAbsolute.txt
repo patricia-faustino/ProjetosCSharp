@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.exe
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.deps.json
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.dll
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\netcoreapp3.1\ExResolvidoLinq.pdb
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.dll
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.pdb
+C:\Users\i-ire\source\repos\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\netcoreapp3.1\ExResolvidoLinq.genruntimeconfig.cache

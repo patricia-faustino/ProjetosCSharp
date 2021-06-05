@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.exe
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.deps.json
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.dll
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\bin\Debug\netcoreapp3.1\ExGenerics.pdb
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.dll
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.pdb
+C:\Users\i-ire\source\repos\ExGenerics\ExGenerics\obj\Debug\netcoreapp3.1\ExGenerics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.exe
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.deps.json
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.runtimeconfig.json
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.dll
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\bin\Debug\netcoreapp3.1\SintaxeFEach.pdb
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.dll
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.pdb
+C:\Users\i-ire\source\repos\SintaxeFEach\SintaxeFEach\obj\Debug\netcoreapp3.1\SintaxeFEach.genruntimeconfig.cache

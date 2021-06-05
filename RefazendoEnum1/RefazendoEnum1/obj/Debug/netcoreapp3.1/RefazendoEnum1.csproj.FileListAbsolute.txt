@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.exe
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.deps.json
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.runtimeconfig.json
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.dll
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\bin\Debug\netcoreapp3.1\RefazendoEnum1.pdb
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.dll
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.pdb
+C:\Users\i-ire\source\repos\RefazendoEnum1\RefazendoEnum1\obj\Debug\netcoreapp3.1\RefazendoEnum1.genruntimeconfig.cache

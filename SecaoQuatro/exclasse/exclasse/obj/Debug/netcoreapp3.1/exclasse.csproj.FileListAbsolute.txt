@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.exe
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.deps.json
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.runtimeconfig.json
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.dll
+C:\Users\i-ire\source\repos\exclasse\exclasse\bin\Debug\netcoreapp3.1\exclasse.pdb
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.dll
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.pdb
+C:\Users\i-ire\source\repos\exclasse\exclasse\obj\Debug\netcoreapp3.1\exclasse.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.exe
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.deps.json
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.runtimeconfig.json
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.dll
+C:\Users\i-ire\source\repos\DateTK\DateTK\bin\Debug\netcoreapp3.1\DateTK.pdb
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.dll
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.pdb
+C:\Users\i-ire\source\repos\DateTK\DateTK\obj\Debug\netcoreapp3.1\DateTK.genruntimeconfig.cache

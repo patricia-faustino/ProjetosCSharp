@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.exe
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.deps.json
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.runtimeconfig.json
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.dll
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\bin\Debug\netcoreapp3.1\Exerciproprietes.pdb
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.dll
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.pdb
+C:\Users\i-ire\source\repos\Exerciproprietes\Exerciproprietes\obj\Debug\netcoreapp3.1\Exerciproprietes.genruntimeconfig.cache

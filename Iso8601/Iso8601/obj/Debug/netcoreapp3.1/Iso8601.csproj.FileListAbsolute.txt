@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.exe
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.deps.json
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.runtimeconfig.json
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.dll
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\bin\Debug\netcoreapp3.1\Iso8601.pdb
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.dll
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.pdb
+C:\Users\i-ire\source\repos\Iso8601\Iso8601\obj\Debug\netcoreapp3.1\Iso8601.genruntimeconfig.cache

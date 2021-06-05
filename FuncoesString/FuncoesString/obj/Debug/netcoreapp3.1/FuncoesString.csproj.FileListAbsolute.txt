@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\i-ire\source\repos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache

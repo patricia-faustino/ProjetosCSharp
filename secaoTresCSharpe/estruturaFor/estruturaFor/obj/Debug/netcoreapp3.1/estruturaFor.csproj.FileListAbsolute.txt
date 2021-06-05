@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\bin\Debug\netcoreapp3.1\estruturaFor.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\secaoTresCSharpe\estruturaFor\estruturaFor\obj\Debug\netcoreapp3.1\estruturaFor.genruntimeconfig.cache

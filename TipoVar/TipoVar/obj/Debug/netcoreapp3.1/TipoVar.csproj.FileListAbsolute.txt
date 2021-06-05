@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.exe
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.deps.json
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.runtimeconfig.json
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.dll
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\bin\Debug\netcoreapp3.1\TipoVar.pdb
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.dll
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.pdb
+C:\Users\i-ire\source\repos\TipoVar\TipoVar\obj\Debug\netcoreapp3.1\TipoVar.genruntimeconfig.cache

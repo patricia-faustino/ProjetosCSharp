@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.exe
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.deps.json
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.runtimeconfig.json
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.dll
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\bin\Debug\netcoreapp3.1\MetodosAbstr.pdb
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.dll
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.pdb
+C:\Users\i-ire\source\repos\MetodosAbstr\MetodosAbstr\obj\Debug\netcoreapp3.1\MetodosAbstr.genruntimeconfig.cache

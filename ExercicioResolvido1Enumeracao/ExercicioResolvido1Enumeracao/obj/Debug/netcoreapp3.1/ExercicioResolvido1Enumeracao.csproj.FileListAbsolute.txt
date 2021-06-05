@@ -1,0 +1,13 @@
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.exe
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.deps.json
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.runtimeconfig.json
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.runtimeconfig.dev.json
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.dll
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\bin\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.pdb
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.csprojAssemblyReference.cache
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.AssemblyInfoInputs.cache
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.AssemblyInfo.cs
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.dll
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.pdb
+C:\Users\i-ire\source\repos\ExercicioResolvido1Enumeracao\ExercicioResolvido1Enumeracao\obj\Debug\netcoreapp3.1\ExercicioResolvido1Enumeracao.genruntimeconfig.cache
